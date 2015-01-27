@@ -1,0 +1,30 @@
+body{
+	font: 14px Tahoma;
+	background: #fefefe;
+}
+
+table{
+	width: 100%;
+	max-width: 100%;
+}
+
+.table tr td{
+	padding: 8px;
+	line-height: 1.228;
+	vertical-align: top;
+	border-top: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+
+table tr:first-child, tr:last-child{
+	font-weight: bolder;
+	background: #f0f0f0;
+}
+
+.center{
+	text-align: center;
+}
+
+.row1{
+	background: #fafafa;
+}
